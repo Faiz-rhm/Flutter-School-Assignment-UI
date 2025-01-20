@@ -48,7 +48,6 @@ class _MenuScreenState extends State<MenuScreen> {
                         fontWeight: FontWeight.w700
                       ),
                     ),
-                    const SizedBox(height: 8,),
                     InkWell(
                       onTap: () {
                       },
